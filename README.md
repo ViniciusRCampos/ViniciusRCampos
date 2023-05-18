@@ -9,6 +9,8 @@
 * Jest
 * MySQL
 * Python
+* PHP
+* Laravel
 - :exclamation: Meu interesse é atuar como desenvolvedor Back-End e futuramente me tornar um Engenheiro de Dados
 que é uma forma de aproveitar a analise matematica que desenvolvi durante minha formação.
 
